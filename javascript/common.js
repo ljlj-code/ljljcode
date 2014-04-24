@@ -64,5 +64,4 @@ function getColor(integer,tableId,trClass){
 	        return false;
 	    }
 	}
-	     
 }
